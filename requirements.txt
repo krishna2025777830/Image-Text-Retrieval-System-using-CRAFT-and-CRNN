@@ -1,0 +1,7 @@
+streamlit>=1.28.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+easyocr>=1.6.2
+paddleocr>=2.7.0.2
+paddlepaddle>=2.5.0
+pillow>=10.0.0
